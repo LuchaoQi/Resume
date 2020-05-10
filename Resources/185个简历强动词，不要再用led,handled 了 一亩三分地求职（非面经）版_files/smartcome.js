@@ -1,0 +1,7 @@
+function dxksst_credit_agree(value,myuid,uid,str,self,pid,have,hash){var ishave=document.getElementById("dxksst_credit_have_"+pid);if(ishave.value==1){showPrompt(null,null,have,2000);return false;}
+if(!myuid){showWindow('login',"member.php?mod=logging&action=login");return false;}
+if(myuid==uid){showPrompt(null,null,self,2000);return false;}
+url='./plugin.php?id=dxksst_credit:ajax&uid='+uid+'&pid='+pid+'&value='+value+'&formhash='+hash+"&ran="+Math.random();getvalue=dxksst_ajax(url);arrvalue=getvalue.split('|');newvalue=trim(arrvalue[0]);anum=arrvalue[1];dnum=arrvalue[2];dnewvalue=100-newvalue;var credit_t=document.getElementById("dxksst_credit_t_"+pid);var credit=document.getElementById("dxksst_credit_"+pid);var dcredit_t=document.getElementById("dxksst_dcredit_t_"+pid);var dcredit=document.getElementById("dxksst_dcredit_"+pid);credit_t.style.width=newvalue+"%";dcredit_t.style.width=dnewvalue+"%";credit.innerHTML=newvalue+' %&nbsp;<font color="#497B89">('+anum+')</font>';dcredit.innerHTML=dnewvalue+' %&nbsp;<font color="#497B89">('+dnum+')</font>';ishave.value=1;showPrompt(null,null,str,2000);}
+function dxksst_ajax(url){var request=false;try{request=new XMLHttpRequest();}catch(trymicrosoft){try{request=new ActiveXObject("Msxml2.XMLHTTP");}catch(othermicrosoft){try{request=new ActiveXObject("Microsoft.XMLHTTP");}catch(failed){request=false;}}}
+if(!request)
+alert("Error initializing XMLHttpRequest!");request.open("Get",url,false);request.send();return request.responseText;}
