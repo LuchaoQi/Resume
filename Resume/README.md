@@ -1,14 +1,12 @@
 
 
-**Cracking the PM interview - Resumes**
+**Cracking the PM interview - Chapter 7 - 8**
+
+
 
 [185个简历强动词，不要再用led, handled 了](https://www.1point3acres.com/bbs/thread-628972-1-1.html)
 
 https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome
-
-
-
-
 
 
 
