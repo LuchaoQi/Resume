@@ -1,6 +1,8 @@
 
 
-**Cracking the PM interview - Chapter 7 - 8**
+[Summary Statement](https://www.themuse.com/advice/3-resume-summary-examples-thatll-make-writing-your-own-easier)
+
+==Cracking the PM interview - Chapter 7 - 8==
 
 
 
@@ -11,6 +13,8 @@ https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awe
 
 
 https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
+
+
 
 Fiverr
 
