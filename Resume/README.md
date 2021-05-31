@@ -1,6 +1,6 @@
 ## Resources
 
-[Summary Statement](https://www.themuse.com/advice/3-resume-summary-examples-thatll-make-writing-your-own-easier)
+[Summary Statement](https://www.themuse.com/advice/3-resume-summary-examples-thatll-make-writing-your-own-easier) - no need to add from `Cracking the PM Interview`
 
 <mark>Cracking the PM interview - Chapter 7 - 8</mark>
 
