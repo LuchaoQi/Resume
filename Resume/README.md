@@ -22,9 +22,7 @@ https://hopstat.wordpress.com/2016/10/05/tips-for-job-search/
 
 ## Word
 
-printable version - margin problem
-
-advanced settings - 
+printer settings > printing preferences > paper/quality > advanced > borderless printing ON
 
 
 
