@@ -26,11 +26,17 @@ printer settings > printing preferences > paper/quality > advanced > borderless 
 
 
 
-insert symbol
+Symbol
 
 https://fontawesome.com/download
 
 
+
+Header
+
+use header section 
+
+OR
 
 no spacing on top Layout
 
