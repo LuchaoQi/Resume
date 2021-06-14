@@ -22,7 +22,11 @@ https://hopstat.wordpress.com/2016/10/05/tips-for-job-search/
 
 ## Word
 
-printer settings > printing preferences > paper/quality > advanced > borderless printing ON
+Borderless - white border in header
+
+open docx in linux with LibreOffice and export as pdf
+
+word sucks
 
 
 
